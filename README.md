@@ -1,3 +1,4 @@
+#Unity带多个富文本打字机效果
 1.把Unity的待富文本效果的文本内容呈现出打字机的效果，即字符逐个显示；
 2.显示文本需要用到TextMeshPro插件，使用TextMeshPro或者TextMeshProUGUI；
 3.把TypewriterEffect类挂在TextMeshPro或者TextMeshProUGUI对象上；
